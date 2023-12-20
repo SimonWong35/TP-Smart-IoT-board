@@ -3,7 +3,7 @@
 
 
 ## Schematic
-[Schematic of TP Smart_IOT_v1.pdf](https://github.com/SimonWong35/TP-Smart-IoT-board/files/13728560/Schematic.of.TP.Smart_IOT_v1.pdf)
+![image][Schematic of TP Smart_IOT_v1.pdf](https://github.com/SimonWong35/TP-Smart-IoT-board/files/13728560/Schematic.of.TP.Smart_IOT_v1.pdf)
 
 
 ## Layout (71mm x 60mm)
