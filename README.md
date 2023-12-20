@@ -3,7 +3,8 @@
 
 
 ## Schematic
-![image](https://github.com/SimonWong35/TP-Smart-IoT-board/assets/9721522/e08d328d-598c-4b26-a5a9-815f168fea7d)
+![image](https://github.com/SimonWong35/TP-Smart-IoT-board/assets/9721522/eba0486c-b170-415f-addf-9b585e82a045)
+
 
 
 ## Layout (71mm x 60mm)
