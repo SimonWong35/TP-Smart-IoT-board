@@ -9,7 +9,8 @@
 
 
 ## Layout (71mm x 60mm)
-![image](https://github.com/SimonWong35/TP-Smart-IoT-board/assets/9721522/b5d82acf-6fff-4447-b031-d67872f50a1e)
+![image](https://github.com/SimonWong35/TP-Smart-IoT-board/assets/9721522/65fa1d79-d2d4-4799-89a5-9011a2eda0e4)
+
 
 
 
